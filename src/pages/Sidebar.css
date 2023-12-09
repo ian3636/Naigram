@@ -1,0 +1,40 @@
+* {
+    background-color: #070707;
+    color: #fff;
+}
+
+.side h1 {
+    margin-left: 50px;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0399fd;
+    font-weight: 100;
+    width: 250px;
+}
+
+.more i{
+    margin: 0;
+    display: flex;
+    gap: 20px;
+    font-family: sans-serif;
+    align-items: center;
+    background: none;
+    
+}
+
+.more {
+    margin-left: 40px;
+    align-items: center;
+    gap: 40px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: start;
+    margin-left: 90px;
+    width: 191px;
+}
+
+.cent h1 {
+    text-align: center;
+}
